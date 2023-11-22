@@ -1,0 +1,6 @@
+cdn.optimizely.com 
+split.io
+tinyurl.com
+ow.ly
+bit.ly
+t.ly
